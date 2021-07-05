@@ -1,3 +1,8 @@
+TODO:
+authentication
+separate users (each one can upload their own pictures, see each other's pics)
+like system
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
